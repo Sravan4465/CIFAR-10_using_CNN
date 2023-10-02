@@ -1,7 +1,7 @@
 # CIFAR-10_using_CNN
 Image Classification using CNN
 
-Using Convolutional Neural Network (CNN) based deep learning method implementing two models for performing classification on CIFAR-10 dataset.
+Using Convolutional Neural Network (CNN) based deep learning method implemented two models for performing classification on CIFAR-10 dataset.
 
 CIFAR-10 dataset consists of 60000 images of size 32x32x3.
 
@@ -13,6 +13,8 @@ But for the model trained using data augmentation learns for more than 120 epoch
 |---------------------------|-------------|-------------------|
 | Without Data Augmentation |    0.976    |      66.52 %      |
 |  With Data Augmentation   |    0.7310   |      75.26 %      |
+
+For using the code Download it and upload in google colab then you can run it on GPU with tensorflow framework.
 
 
 
